@@ -1,0 +1,4961 @@
+qaeMemInit started
+icp_sal_userStartMultiProcess("SSL") started
+*** QA version information ***
+device ID		= 0
+firmware 		= 2.6.0
+mmp      		= 1.0.0
+software 		= 2.6.0
+hardware 		= A0
+*** END QA version information ***
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          727734
+Clock Cycles Start     5752397949798604
+Clock Cycles End       5752398630400642
+Total Cycles           680602038
+CPU Frequency(kHz)     3312215
+Throughput(Mbps)       25063
+BytesConsumed       3347652
+TCS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          722916
+Clock Cycles Start     5752401985857500
+Clock Cycles End       5752402663238100
+Total Cycles           677380600
+CPU Frequency(kHz)     3312215
+Throughput(Mbps)       25186
+BytesConsumed       3347648
+TDS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            65536
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          1451664
+Clock Cycles Start     5752406013049890
+Clock Cycles End       5752407252235798
+Total Cycles           1239185908
+CPU Frequency(kHz)     3312215
+Throughput(Mbps)       13738
+BytesConsumed       3084787
+TCS2_Compression Ratio      0.48
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          653416
+Clock Cycles Start     5752410609702082
+Clock Cycles End       5752411231121132
+Total Cycles           621419050
+CPU Frequency(kHz)     3312215
+Throughput(Mbps)       27476
+BytesConsumed       3084793
+TDS2_Compression Ratio      0.48
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          781542
+Clock Cycles Start     5752414578979652
+Clock Cycles End       5752415302146456
+Total Cycles           723166804
+CPU Frequency(kHz)     3312215
+Throughput(Mbps)       23568
+BytesConsumed       2664646
+TCD1_Compression Ratio      0.41
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          725867
+Clock Cycles Start     5752418657995646
+Clock Cycles End       5752419339650882
+Total Cycles           681655236
+CPU Frequency(kHz)     3312215
+Throughput(Mbps)       25063
+BytesConsumed       2664646
+TDD1_Compression Ratio      0.41
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            65536
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          1458965
+Clock Cycles Start     5752422687932082
+Clock Cycles End       5752423958749522
+Total Cycles           1270817440
+CPU Frequency(kHz)     3312215
+Throughput(Mbps)       13415
+BytesConsumed       2477937
+TCD2_Compression Ratio      0.39
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          656904
+Clock Cycles Start     5752427321102808
+Clock Cycles End       5752427946470022
+Total Cycles           625367214
+CPU Frequency(kHz)     3312215
+Throughput(Mbps)       27329
+BytesConsumed       2477946
+TDD2_Compression Ratio      0.39
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          715818
+Clock Cycles Start     5752431303130848
+Clock Cycles End       5752431980638174
+Total Cycles           677507326
+CPU Frequency(kHz)     3312215
+Throughput(Mbps)       25186
+BytesConsumed       3347648
+TDS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          2052119
+Clock Cycles Start     5752435334074224
+Clock Cycles End       5752436016335060
+Total Cycles           682260836
+CPU Frequency(kHz)     3312215
+Throughput(Mbps)       25063
+BytesConsumed       3347648
+DCS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          2038942
+Clock Cycles Start     5752439364149458
+Clock Cycles End       5752440041233966
+Total Cycles           677084508
+CPU Frequency(kHz)     3312215
+Throughput(Mbps)       25186
+BytesConsumed       3347648
+DDS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            65536
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          3724850
+Clock Cycles Start     5752443385715934
+Clock Cycles End       5752444626285830
+Total Cycles           1240569896
+CPU Frequency(kHz)     3312215
+Throughput(Mbps)       13738
+BytesConsumed       3084791
+DCS2_Compression Ratio      0.48
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          1847371
+Clock Cycles Start     5752447991733422
+Clock Cycles End       5752448612793886
+Total Cycles           621060464
+CPU Frequency(kHz)     3312215
+Throughput(Mbps)       27476
+BytesConsumed       3084790
+DDS2_Compression Ratio      0.48
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          1887581
+Clock Cycles Start     5752451941883550
+Clock Cycles End       5752452671792780
+Total Cycles           729909230
+CPU Frequency(kHz)     3312215
+Throughput(Mbps)       23354
+BytesConsumed       2664645
+DCD1_Compression Ratio      0.41
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          2001218
+Clock Cycles Start     5752456023433940
+Clock Cycles End       5752456704710388
+Total Cycles           681276448
+CPU Frequency(kHz)     3312215
+Throughput(Mbps)       25063
+BytesConsumed       2664646
+DDD1_Compression Ratio      0.41
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            65536
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          3801640
+Clock Cycles Start     5752460037932890
+Clock Cycles End       5752461307977780
+Total Cycles           1270044890
+CPU Frequency(kHz)     3312215
+Throughput(Mbps)       13415
+BytesConsumed       2477945
+DCD2_Compression Ratio      0.39
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          1888580
+Clock Cycles Start     5752464675869888
+Clock Cycles End       5752465300978636
+Total Cycles           625108748
+CPU Frequency(kHz)     3312215
+Throughput(Mbps)       27329
+BytesConsumed       2477943
+DDD2_Compression Ratio      0.39
+---------------------------------------
+
+qaeMemInit started
+icp_sal_userStartMultiProcess("SSL") started
+*** QA version information ***
+device ID		= 0
+firmware 		= 2.6.0
+mmp      		= 1.0.0
+software 		= 2.6.0
+hardware 		= A0
+*** END QA version information ***
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            32768
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        19800
+Total Retries          979220
+Clock Cycles Start     5752477338190602
+Clock Cycles End       5752478032484684
+Total Cycles           694294082
+CPU Frequency(kHz)     3312234
+Throughput(Mbps)       24834
+BytesConsumed       3406022
+TCS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            32768
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        19800
+Total Retries          984558
+Clock Cycles Start     5752481419953002
+Clock Cycles End       5752482121964296
+Total Cycles           702011294
+CPU Frequency(kHz)     3312234
+Throughput(Mbps)       24599
+BytesConsumed       3406022
+TDS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            32768
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        19800
+Total Retries          1883061
+Clock Cycles Start     5752485517437240
+Clock Cycles End       5752486781270388
+Total Cycles           1263833148
+CPU Frequency(kHz)     3312234
+Throughput(Mbps)       13623
+BytesConsumed       3139719
+TCS2_Compression Ratio      0.48
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            32768
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        19800
+Total Retries          890449
+Clock Cycles Start     5752490178696908
+Clock Cycles End       5752490822764400
+Total Cycles           644067492
+CPU Frequency(kHz)     3312234
+Throughput(Mbps)       26754
+BytesConsumed       3139729
+TDS2_Compression Ratio      0.48
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            32768
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        19800
+Total Retries          1089219
+Clock Cycles Start     5752494210871376
+Clock Cycles End       5752494981840514
+Total Cycles           770969138
+CPU Frequency(kHz)     3312234
+Throughput(Mbps)       22372
+BytesConsumed       2698420
+TCD1_Compression Ratio      0.42
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            32768
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        19800
+Total Retries          1002815
+Clock Cycles Start     5752498373242754
+Clock Cycles End       5752499083513388
+Total Cycles           710270634
+CPU Frequency(kHz)     3312234
+Throughput(Mbps)       24254
+BytesConsumed       2698419
+TDD1_Compression Ratio      0.42
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            32768
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        19800
+Total Retries          2060597
+Clock Cycles Start     5752502426282016
+Clock Cycles End       5752503747903598
+Total Cycles           1321621582
+CPU Frequency(kHz)     3312234
+Throughput(Mbps)       13008
+BytesConsumed       2522268
+TCD2_Compression Ratio      0.39
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            32768
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        19800
+Total Retries          927807
+Clock Cycles Start     5752507154748672
+Clock Cycles End       5752507806813066
+Total Cycles           652064394
+CPU Frequency(kHz)     3312234
+Throughput(Mbps)       26481
+BytesConsumed       2522256
+TDD2_Compression Ratio      0.39
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          739059
+Clock Cycles Start     5752511163839904
+Clock Cycles End       5752511841340986
+Total Cycles           677501082
+CPU Frequency(kHz)     3312234
+Throughput(Mbps)       25186
+BytesConsumed       3347648
+TDS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            32768
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        19800
+Total Retries          2209722
+Clock Cycles Start     5752515199187770
+Clock Cycles End       5752515894448150
+Total Cycles           695260380
+CPU Frequency(kHz)     3312234
+Throughput(Mbps)       24834
+BytesConsumed       3406022
+DCS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            32768
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        19800
+Total Retries          2217461
+Clock Cycles Start     5752519254446676
+Clock Cycles End       5752519955972210
+Total Cycles           701525534
+CPU Frequency(kHz)     3312234
+Throughput(Mbps)       24599
+BytesConsumed       3406022
+DDS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            32768
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        19800
+Total Retries          4028537
+Clock Cycles Start     5752523316622976
+Clock Cycles End       5752524582413874
+Total Cycles           1265790898
+CPU Frequency(kHz)     3312234
+Throughput(Mbps)       13587
+BytesConsumed       3139720
+DCS2_Compression Ratio      0.48
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            32768
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        19800
+Total Retries          2028600
+Clock Cycles Start     5752527954341696
+Clock Cycles End       5752528597904886
+Total Cycles           643563190
+CPU Frequency(kHz)     3312234
+Throughput(Mbps)       26754
+BytesConsumed       3139714
+DDS2_Compression Ratio      0.48
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            32768
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        19800
+Total Retries          2424715
+Clock Cycles Start     5752531953194140
+Clock Cycles End       5752532723565184
+Total Cycles           770371044
+CPU Frequency(kHz)     3312234
+Throughput(Mbps)       22372
+BytesConsumed       2698420
+DCD1_Compression Ratio      0.42
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            32768
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        19800
+Total Retries          2243582
+Clock Cycles Start     5752536090372768
+Clock Cycles End       5752536800200614
+Total Cycles           709827846
+CPU Frequency(kHz)     3312234
+Throughput(Mbps)       24254
+BytesConsumed       2698420
+DDD1_Compression Ratio      0.42
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            32768
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        19800
+Total Retries          4188577
+Clock Cycles Start     5752540160096508
+Clock Cycles End       5752541481878616
+Total Cycles           1321782108
+CPU Frequency(kHz)     3312234
+Throughput(Mbps)       13008
+BytesConsumed       2522245
+DCD2_Compression Ratio      0.39
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            32768
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        19800
+Total Retries          2022265
+Clock Cycles Start     5752544840289812
+Clock Cycles End       5752545491952628
+Total Cycles           651662816
+CPU Frequency(kHz)     3312234
+Throughput(Mbps)       26481
+BytesConsumed       2522261
+DDD2_Compression Ratio      0.39
+---------------------------------------
+
+qaeMemInit started
+icp_sal_userStartMultiProcess("SSL") started
+*** QA version information ***
+device ID		= 0
+firmware 		= 2.6.0
+mmp      		= 1.0.0
+software 		= 2.6.0
+hardware 		= A0
+*** END QA version information ***
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            16384
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        39600
+Total Retries          1222003
+Clock Cycles Start     5752556974396974
+Clock Cycles End       5752557683117362
+Total Cycles           708720388
+CPU Frequency(kHz)     3312348
+Throughput(Mbps)       24368
+BytesConsumed       3463788
+TCS1_Compression Ratio      0.53
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            16384
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        39600
+Total Retries          1212254
+Clock Cycles Start     5752561198439046
+Clock Cycles End       5752561935052966
+Total Cycles           736613920
+CPU Frequency(kHz)     3312348
+Throughput(Mbps)       23380
+BytesConsumed       3463788
+TDS1_Compression Ratio      0.53
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            16384
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        39600
+Total Retries          2277818
+Clock Cycles Start     5752565467557524
+Clock Cycles End       5752566774903926
+Total Cycles           1307346402
+CPU Frequency(kHz)     3312348
+Throughput(Mbps)       13173
+BytesConsumed       3200417
+TCS2_Compression Ratio      0.49
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            16384
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        39600
+Total Retries          1100742
+Clock Cycles Start     5752570297644804
+Clock Cycles End       5752570975842638
+Total Cycles           678197834
+CPU Frequency(kHz)     3312348
+Throughput(Mbps)       25443
+BytesConsumed       3200394
+TDS2_Compression Ratio      0.49
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            16384
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        39600
+Total Retries          1442454
+Clock Cycles Start     5752574508508004
+Clock Cycles End       5752575361366118
+Total Cycles           852858114
+CPU Frequency(kHz)     3312348
+Throughput(Mbps)       20196
+BytesConsumed       2740000
+TCD1_Compression Ratio      0.42
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            16384
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        39600
+Total Retries          1329377
+Clock Cycles Start     5752578859932972
+Clock Cycles End       5752579612508962
+Total Cycles           752575990
+CPU Frequency(kHz)     3312348
+Throughput(Mbps)       22865
+BytesConsumed       2739999
+TDD1_Compression Ratio      0.42
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            16384
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        39600
+Total Retries          2454952
+Clock Cycles Start     5752583173458788
+Clock Cycles End       5752584590006990
+Total Cycles           1416548202
+CPU Frequency(kHz)     3312348
+Throughput(Mbps)       12155
+BytesConsumed       2575824
+TCD2_Compression Ratio      0.40
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            16384
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        39600
+Total Retries          1135068
+Clock Cycles Start     5752588134339402
+Clock Cycles End       5752588828238914
+Total Cycles           693899512
+CPU Frequency(kHz)     3312348
+Throughput(Mbps)       24834
+BytesConsumed       2575822
+TDD2_Compression Ratio      0.40
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          759522
+Clock Cycles Start     5752592199443310
+Clock Cycles End       5752592876908846
+Total Cycles           677465536
+CPU Frequency(kHz)     3312348
+Throughput(Mbps)       25186
+BytesConsumed       3347648
+TDS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            16384
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        39600
+Total Retries          2218309
+Clock Cycles Start     5752596266187196
+Clock Cycles End       5752596978040422
+Total Cycles           711853226
+CPU Frequency(kHz)     3312348
+Throughput(Mbps)       24254
+BytesConsumed       3463790
+DCS1_Compression Ratio      0.53
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            16384
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        39600
+Total Retries          2303484
+Clock Cycles Start     5752600388983776
+Clock Cycles End       5752601124709234
+Total Cycles           735725458
+CPU Frequency(kHz)     3312348
+Throughput(Mbps)       23380
+BytesConsumed       3463789
+DDS1_Compression Ratio      0.53
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            16384
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        39600
+Total Retries          4104689
+Clock Cycles Start     5752604533953818
+Clock Cycles End       5752605844480320
+Total Cycles           1310526502
+CPU Frequency(kHz)     3312348
+Throughput(Mbps)       13140
+BytesConsumed       3200396
+DCS2_Compression Ratio      0.49
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            16384
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        39600
+Total Retries          2110175
+Clock Cycles Start     5752609272926886
+Clock Cycles End       5752609950211990
+Total Cycles           677285104
+CPU Frequency(kHz)     3312348
+Throughput(Mbps)       25443
+BytesConsumed       3200399
+DDS2_Compression Ratio      0.49
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            16384
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        39600
+Total Retries          2656342
+Clock Cycles Start     5752613350937304
+Clock Cycles End       5752614206168632
+Total Cycles           855231328
+CPU Frequency(kHz)     3312348
+Throughput(Mbps)       20118
+BytesConsumed       2740000
+DCD1_Compression Ratio      0.42
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            16384
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        39600
+Total Retries          2327348
+Clock Cycles Start     5752617619488264
+Clock Cycles End       5752618371089016
+Total Cycles           751600752
+CPU Frequency(kHz)     3312348
+Throughput(Mbps)       22966
+BytesConsumed       2740004
+DDD1_Compression Ratio      0.42
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            16384
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        39600
+Total Retries          4434639
+Clock Cycles Start     5752621780462892
+Clock Cycles End       5752623198730652
+Total Cycles           1418267760
+CPU Frequency(kHz)     3312348
+Throughput(Mbps)       12127
+BytesConsumed       2575849
+DCD2_Compression Ratio      0.40
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            16384
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        39600
+Total Retries          2152458
+Clock Cycles Start     5752626606110060
+Clock Cycles End       5752627299111400
+Total Cycles           693001340
+CPU Frequency(kHz)     3312348
+Throughput(Mbps)       24834
+BytesConsumed       2575824
+DDD2_Compression Ratio      0.40
+---------------------------------------
+
+qaeMemInit started
+icp_sal_userStartMultiProcess("SSL") started
+*** QA version information ***
+device ID		= 0
+firmware 		= 2.6.0
+mmp      		= 1.0.0
+software 		= 2.6.0
+hardware 		= A0
+*** END QA version information ***
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            8192
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        79200
+Total Retries          1247594
+Clock Cycles Start     5752636853383074
+Clock Cycles End       5752637590372604
+Total Cycles           736989530
+CPU Frequency(kHz)     3312350
+Throughput(Mbps)       23380
+BytesConsumed       3552892
+TCS1_Compression Ratio      0.55
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            8192
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        79200
+Total Retries          1410216
+Clock Cycles Start     5752641131030846
+Clock Cycles End       5752641928931490
+Total Cycles           797900644
+CPU Frequency(kHz)     3312350
+Throughput(Mbps)       21626
+BytesConsumed       3552892
+TDS1_Compression Ratio      0.55
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            8192
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        79200
+Total Retries          2531973
+Clock Cycles Start     5752645552059426
+Clock Cycles End       5752646933014986
+Total Cycles           1380955560
+CPU Frequency(kHz)     3312350
+Throughput(Mbps)       12477
+BytesConsumed       3316817
+TCS2_Compression Ratio      0.51
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            8192
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        79200
+Total Retries          1277316
+Clock Cycles Start     5752650949220292
+Clock Cycles End       5752651693935930
+Total Cycles           744715638
+CPU Frequency(kHz)     3312350
+Throughput(Mbps)       23171
+BytesConsumed       3316833
+TDS2_Compression Ratio      0.51
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            8192
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        79200
+Total Retries          1858304
+Clock Cycles Start     5752655394256904
+Clock Cycles End       5752656426218374
+Total Cycles           1031961470
+CPU Frequency(kHz)     3312350
+Throughput(Mbps)       16689
+BytesConsumed       2802182
+TCD1_Compression Ratio      0.43
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            8192
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        79200
+Total Retries          1428705
+Clock Cycles Start     5752660406172806
+Clock Cycles End       5752661235366778
+Total Cycles           829193972
+CPU Frequency(kHz)     3312350
+Throughput(Mbps)       20761
+BytesConsumed       2802182
+TDD1_Compression Ratio      0.43
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            8192
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        79200
+Total Retries          2920014
+Clock Cycles Start     5752665293696654
+Clock Cycles End       5752666890164940
+Total Cycles           1596468286
+CPU Frequency(kHz)     3312350
+Throughput(Mbps)       10790
+BytesConsumed       2667999
+TCD2_Compression Ratio      0.41
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            8192
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        79200
+Total Retries          1303426
+Clock Cycles Start     5752670942690978
+Clock Cycles End       5752671718789098
+Total Cycles           776098120
+CPU Frequency(kHz)     3312350
+Throughput(Mbps)       22181
+BytesConsumed       2667979
+TDD2_Compression Ratio      0.41
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          741160
+Clock Cycles Start     5752675143895988
+Clock Cycles End       5752675821462864
+Total Cycles           677566876
+CPU Frequency(kHz)     3312350
+Throughput(Mbps)       25186
+BytesConsumed       3347646
+TDS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            8192
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        79200
+Total Retries          2389716
+Clock Cycles Start     5752679352754026
+Clock Cycles End       5752680096879412
+Total Cycles           744125386
+CPU Frequency(kHz)     3312350
+Throughput(Mbps)       23171
+BytesConsumed       3552892
+DCS1_Compression Ratio      0.55
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            8192
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        79200
+Total Retries          2568772
+Clock Cycles Start     5752683736518148
+Clock Cycles End       5752684532793984
+Total Cycles           796275836
+CPU Frequency(kHz)     3312350
+Throughput(Mbps)       21626
+BytesConsumed       3552890
+DDS1_Compression Ratio      0.55
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            8192
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        79200
+Total Retries          4520827
+Clock Cycles Start     5752688115371130
+Clock Cycles End       5752689501745242
+Total Cycles           1386374112
+CPU Frequency(kHz)     3312350
+Throughput(Mbps)       12417
+BytesConsumed       3316813
+DCS2_Compression Ratio      0.51
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            8192
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        79200
+Total Retries          2395943
+Clock Cycles Start     5752693124529284
+Clock Cycles End       5752693867593706
+Total Cycles           743064422
+CPU Frequency(kHz)     3312350
+Throughput(Mbps)       23171
+BytesConsumed       3316824
+DDS2_Compression Ratio      0.51
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            8192
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        79200
+Total Retries          3369678
+Clock Cycles Start     5752697479015034
+Clock Cycles End       5752698515407428
+Total Cycles           1036392394
+CPU Frequency(kHz)     3312350
+Throughput(Mbps)       16636
+BytesConsumed       2802183
+DCD1_Compression Ratio      0.43
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            8192
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        79200
+Total Retries          2661339
+Clock Cycles Start     5752702104900006
+Clock Cycles End       5752702932217126
+Total Cycles           827317120
+CPU Frequency(kHz)     3312350
+Throughput(Mbps)       20845
+BytesConsumed       2802183
+DDD1_Compression Ratio      0.43
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            8192
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        79200
+Total Retries          5224424
+Clock Cycles Start     5752706563019952
+Clock Cycles End       5752708162144404
+Total Cycles           1599124452
+CPU Frequency(kHz)     3312350
+Throughput(Mbps)       10768
+BytesConsumed       2667986
+DCD2_Compression Ratio      0.41
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            8192
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        79200
+Total Retries          2481774
+Clock Cycles Start     5752711790729794
+Clock Cycles End       5752712564995768
+Total Cycles           774265974
+CPU Frequency(kHz)     3312350
+Throughput(Mbps)       22276
+BytesConsumed       2667981
+DDD2_Compression Ratio      0.41
+---------------------------------------
+
+qaeMemInit started
+icp_sal_userStartMultiProcess("SSL") started
+*** QA version information ***
+device ID		= 0
+firmware 		= 2.6.0
+mmp      		= 1.0.0
+software 		= 2.6.0
+hardware 		= A0
+*** END QA version information ***
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            4096
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        158600
+Total Retries          1380134
+Clock Cycles Start     5752722936556988
+Clock Cycles End       5752723736443876
+Total Cycles           799886888
+CPU Frequency(kHz)     3312197
+Throughput(Mbps)       21564
+BytesConsumed       3696672
+TCS1_Compression Ratio      0.57
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            4096
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        158600
+Total Retries          1573398
+Clock Cycles Start     5752728006651172
+Clock Cycles End       5752728919667232
+Total Cycles           913016060
+CPU Frequency(kHz)     3312197
+Throughput(Mbps)       18898
+BytesConsumed       3696670
+TDS1_Compression Ratio      0.57
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            4096
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        158600
+Total Retries          2610311
+Clock Cycles Start     5752733299574316
+Clock Cycles End       5752734744136872
+Total Cycles           1444562556
+CPU Frequency(kHz)     3312197
+Throughput(Mbps)       11919
+BytesConsumed       3508776
+TCS2_Compression Ratio      0.54
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            4096
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        158600
+Total Retries          1509356
+Clock Cycles Start     5752739023238970
+Clock Cycles End       5752739894294638
+Total Cycles           871055668
+CPU Frequency(kHz)     3312197
+Throughput(Mbps)       19835
+BytesConsumed       3508767
+TDS2_Compression Ratio      0.54
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            4096
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        158600
+Total Retries          2501759
+Clock Cycles Start     5752744178818834
+Clock Cycles End       5752745564832040
+Total Cycles           1386013206
+CPU Frequency(kHz)     3312197
+Throughput(Mbps)       12433
+BytesConsumed       2906774
+TCD1_Compression Ratio      0.45
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            4096
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        158600
+Total Retries          1706355
+Clock Cycles Start     5752749866363440
+Clock Cycles End       5752750839645012
+Total Cycles           973281572
+CPU Frequency(kHz)     3312197
+Throughput(Mbps)       17737
+BytesConsumed       2906762
+TDD1_Compression Ratio      0.45
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            4096
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        158600
+Total Retries          3440709
+Clock Cycles Start     5752755321109182
+Clock Cycles End       5752757201290370
+Total Cycles           1880181188
+CPU Frequency(kHz)     3312197
+Throughput(Mbps)       9165
+BytesConsumed       2802360
+TCD2_Compression Ratio      0.43
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            4096
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        158600
+Total Retries          1614243
+Clock Cycles Start     5752761626337676
+Clock Cycles End       5752762557145322
+Total Cycles           930807646
+CPU Frequency(kHz)     3312197
+Throughput(Mbps)       18494
+BytesConsumed       2802360
+TDD2_Compression Ratio      0.43
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          724415
+Clock Cycles Start     5752766184126462
+Clock Cycles End       5752766861590030
+Total Cycles           677463568
+CPU Frequency(kHz)     3312197
+Throughput(Mbps)       25186
+BytesConsumed       3347648
+TDS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            4096
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        158600
+Total Retries          2551859
+Clock Cycles Start     5752770922812092
+Clock Cycles End       5752771735374524
+Total Cycles           812562432
+CPU Frequency(kHz)     3312197
+Throughput(Mbps)       21212
+BytesConsumed       3696672
+DCS1_Compression Ratio      0.57
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            4096
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        158600
+Total Retries          2899996
+Clock Cycles Start     5752776115251206
+Clock Cycles End       5752777024618566
+Total Cycles           909367360
+CPU Frequency(kHz)     3312197
+Throughput(Mbps)       18967
+BytesConsumed       3696673
+DDS1_Compression Ratio      0.57
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            4096
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        158600
+Total Retries          4731677
+Clock Cycles Start     5752781384078860
+Clock Cycles End       5752782839653790
+Total Cycles           1455574930
+CPU Frequency(kHz)     3312197
+Throughput(Mbps)       11838
+BytesConsumed       3508777
+DCS2_Compression Ratio      0.54
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            4096
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        158600
+Total Retries          2755694
+Clock Cycles Start     5752787213711144
+Clock Cycles End       5752788079815040
+Total Cycles           866103896
+CPU Frequency(kHz)     3312197
+Throughput(Mbps)       19911
+BytesConsumed       3508778
+DDS2_Compression Ratio      0.54
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            4096
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        158600
+Total Retries          4535075
+Clock Cycles Start     5752792448964362
+Clock Cycles End       5752793852342484
+Total Cycles           1403378122
+CPU Frequency(kHz)     3312197
+Throughput(Mbps)       12286
+BytesConsumed       2906815
+DCD1_Compression Ratio      0.45
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            4096
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        158600
+Total Retries          3083652
+Clock Cycles Start     5752798209660840
+Clock Cycles End       5752799179027834
+Total Cycles           969366994
+CPU Frequency(kHz)     3312197
+Throughput(Mbps)       17797
+BytesConsumed       2906772
+DDD1_Compression Ratio      0.45
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            4096
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        158600
+Total Retries          6108642
+Clock Cycles Start     5752803485782256
+Clock Cycles End       5752805368391612
+Total Cycles           1882609356
+CPU Frequency(kHz)     3312197
+Throughput(Mbps)       9149
+BytesConsumed       2802380
+DCD2_Compression Ratio      0.43
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            4096
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        158600
+Total Retries          2928414
+Clock Cycles Start     5752809759440280
+Clock Cycles End       5752810686361836
+Total Cycles           926921556
+CPU Frequency(kHz)     3312197
+Throughput(Mbps)       18627
+BytesConsumed       2802401
+DDD2_Compression Ratio      0.43
+---------------------------------------
+
+qaeMemInit started
+icp_sal_userStartMultiProcess("SSL") started
+*** QA version information ***
+device ID		= 0
+firmware 		= 2.6.0
+mmp      		= 1.0.0
+software 		= 2.6.0
+hardware 		= A0
+*** END QA version information ***
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            2048
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        317400
+Total Retries          1472626
+Clock Cycles Start     5752823625687612
+Clock Cycles End       5752824570417822
+Total Cycles           944730210
+CPU Frequency(kHz)     3312353
+Throughput(Mbps)       18246
+BytesConsumed       3905814
+TCS1_Compression Ratio      0.60
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            2048
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        317400
+Total Retries          1860823
+Clock Cycles Start     5752830304004362
+Clock Cycles End       5752831447747606
+Total Cycles           1143743244
+CPU Frequency(kHz)     3312353
+Throughput(Mbps)       15073
+BytesConsumed       3905813
+TDS1_Compression Ratio      0.60
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            2048
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        317400
+Total Retries          2762675
+Clock Cycles Start     5752836994009520
+Clock Cycles End       5752838594512544
+Total Cycles           1600503024
+CPU Frequency(kHz)     3312353
+Throughput(Mbps)       10766
+BytesConsumed       3765800
+TCS2_Compression Ratio      0.58
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            2048
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        317400
+Total Retries          1805031
+Clock Cycles Start     5752844118312784
+Clock Cycles End       5752845232807524
+Total Cycles           1114494740
+CPU Frequency(kHz)     3312353
+Throughput(Mbps)       15477
+BytesConsumed       3765807
+TDS2_Compression Ratio      0.58
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            2048
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        317400
+Total Retries          3655736
+Clock Cycles Start     5752851038741858
+Clock Cycles End       5752853105205824
+Total Cycles           2066463966
+CPU Frequency(kHz)     3312353
+Throughput(Mbps)       8347
+BytesConsumed       3072876
+TCD1_Compression Ratio      0.47
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            2048
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        317400
+Total Retries          2068777
+Clock Cycles Start     5752858944316898
+Clock Cycles End       5752860198892844
+Total Cycles           1254575946
+CPU Frequency(kHz)     3312353
+Throughput(Mbps)       13757
+BytesConsumed       3072884
+TDD1_Compression Ratio      0.47
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            2048
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        317400
+Total Retries          4528977
+Clock Cycles Start     5752866290864960
+Clock Cycles End       5752868809627236
+Total Cycles           2518762276
+CPU Frequency(kHz)     3312353
+Throughput(Mbps)       6842
+BytesConsumed       2993166
+TCD2_Compression Ratio      0.46
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            2048
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        317400
+Total Retries          1974458
+Clock Cycles Start     5752875083558040
+Clock Cycles End       5752876308839262
+Total Cycles           1225281222
+CPU Frequency(kHz)     3312353
+Throughput(Mbps)       14092
+BytesConsumed       2993145
+TDD2_Compression Ratio      0.46
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          819118
+Clock Cycles Start     5752880517334388
+Clock Cycles End       5752881194717028
+Total Cycles           677382640
+CPU Frequency(kHz)     3312353
+Throughput(Mbps)       25186
+BytesConsumed       3347648
+TDS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            2048
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        317400
+Total Retries          2904348
+Clock Cycles Start     5752886691177734
+Clock Cycles End       5752887657637512
+Total Cycles           966459778
+CPU Frequency(kHz)     3312353
+Throughput(Mbps)       17870
+BytesConsumed       3905811
+DCS1_Compression Ratio      0.60
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            2048
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        317400
+Total Retries          3461979
+Clock Cycles Start     5752894298286212
+Clock Cycles End       5752895426617576
+Total Cycles           1128331364
+CPU Frequency(kHz)     3312353
+Throughput(Mbps)       15294
+BytesConsumed       3905816
+DDS1_Compression Ratio      0.60
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            2048
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        317400
+Total Retries          5133428
+Clock Cycles Start     5752902373749286
+Clock Cycles End       5752903998529196
+Total Cycles           1624779910
+CPU Frequency(kHz)     3312353
+Throughput(Mbps)       10612
+BytesConsumed       3765812
+DCS2_Compression Ratio      0.58
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            2048
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        317400
+Total Retries          3339505
+Clock Cycles Start     5752911058938460
+Clock Cycles End       5752912158653192
+Total Cycles           1099714732
+CPU Frequency(kHz)     3312353
+Throughput(Mbps)       15663
+BytesConsumed       3765803
+DDS2_Compression Ratio      0.58
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            2048
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        317400
+Total Retries          6635884
+Clock Cycles Start     5752919117503216
+Clock Cycles End       5752921200075724
+Total Cycles           2082572508
+CPU Frequency(kHz)     3312353
+Throughput(Mbps)       8280
+BytesConsumed       3072874
+DCD1_Compression Ratio      0.47
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            2048
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        317400
+Total Retries          3839217
+Clock Cycles Start     5752927716595914
+Clock Cycles End       5752928962364644
+Total Cycles           1245768730
+CPU Frequency(kHz)     3312353
+Throughput(Mbps)       13830
+BytesConsumed       3072878
+DDD1_Compression Ratio      0.47
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            2048
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        317400
+Total Retries          8214164
+Clock Cycles Start     5752935313358108
+Clock Cycles End       5752937857533952
+Total Cycles           2544175844
+CPU Frequency(kHz)     3312353
+Throughput(Mbps)       6771
+BytesConsumed       2993161
+DCD2_Compression Ratio      0.46
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            2048
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        317400
+Total Retries          3753713
+Clock Cycles Start     5752945009581830
+Clock Cycles End       5752946224524328
+Total Cycles           1214942498
+CPU Frequency(kHz)     3312353
+Throughput(Mbps)       14208
+BytesConsumed       2993153
+DDD2_Compression Ratio      0.46
+---------------------------------------
+
+qaeMemInit started
+icp_sal_userStartMultiProcess("SSL") started
+*** QA version information ***
+device ID		= 0
+firmware 		= 2.6.0
+mmp      		= 1.0.0
+software 		= 2.6.0
+hardware 		= A0
+*** END QA version information ***
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            1024
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        635000
+Total Retries          2200255
+Clock Cycles Start     5752965733906466
+Clock Cycles End       5752967227750878
+Total Cycles           1493844412
+CPU Frequency(kHz)     3312312
+Throughput(Mbps)       11559
+BytesConsumed       4181747
+TCS1_Compression Ratio      0.64
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            1024
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        635000
+Total Retries          2453264
+Clock Cycles Start     5752979339184814
+Clock Cycles End       5752981015694038
+Total Cycles           1676509224
+CPU Frequency(kHz)     3312312
+Throughput(Mbps)       10280
+BytesConsumed       4181744
+TDS1_Compression Ratio      0.64
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            1024
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        635000
+Total Retries          3298903
+Clock Cycles Start     5752992670925508
+Clock Cycles End       5752994725755374
+Total Cycles           2054829866
+CPU Frequency(kHz)     3312312
+Throughput(Mbps)       8390
+BytesConsumed       4085385
+TCS2_Compression Ratio      0.63
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            1024
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        635000
+Total Retries          2429473
+Clock Cycles Start     5753007162606156
+Clock Cycles End       5753008825578048
+Total Cycles           1662971892
+CPU Frequency(kHz)     3312312
+Throughput(Mbps)       10362
+BytesConsumed       4085382
+TDS2_Compression Ratio      0.63
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            1024
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        635000
+Total Retries          5856699
+Clock Cycles Start     5753021877060232
+Clock Cycles End       5753025274789686
+Total Cycles           3397729454
+CPU Frequency(kHz)     3312312
+Throughput(Mbps)       5075
+BytesConsumed       3315934
+TCD1_Compression Ratio      0.51
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            1024
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        635000
+Total Retries          2789350
+Clock Cycles Start     5753037899122568
+Clock Cycles End       5753039753566852
+Total Cycles           1854444284
+CPU Frequency(kHz)     3312312
+Throughput(Mbps)       9305
+BytesConsumed       3315928
+TDD1_Compression Ratio      0.51
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            1024
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        635000
+Total Retries          6842118
+Clock Cycles Start     5753052725792190
+Clock Cycles End       5753056614247926
+Total Cycles           3888455736
+CPU Frequency(kHz)     3312312
+Throughput(Mbps)       4434
+BytesConsumed       3262968
+TCD2_Compression Ratio      0.50
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            1024
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        635000
+Total Retries          2758041
+Clock Cycles Start     5753069715463090
+Clock Cycles End       5753071548600704
+Total Cycles           1833137614
+CPU Frequency(kHz)     3312312
+Throughput(Mbps)       9406
+BytesConsumed       3262972
+TDD2_Compression Ratio      0.50
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          724241
+Clock Cycles Start     5753079106955002
+Clock Cycles End       5753079784500878
+Total Cycles           677545876
+CPU Frequency(kHz)     3312312
+Throughput(Mbps)       25186
+BytesConsumed       3347648
+TDS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            1024
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        635000
+Total Retries          4353825
+Clock Cycles Start     5753088385652522
+Clock Cycles End       5753089873048958
+Total Cycles           1487396436
+CPU Frequency(kHz)     3312312
+Throughput(Mbps)       11585
+BytesConsumed       4181742
+DCS1_Compression Ratio      0.64
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            1024
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        635000
+Total Retries          4803010
+Clock Cycles Start     5753101886992266
+Clock Cycles End       5753103502897838
+Total Cycles           1615905572
+CPU Frequency(kHz)     3312312
+Throughput(Mbps)       10681
+BytesConsumed       4181738
+DDS1_Compression Ratio      0.64
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            1024
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        635000
+Total Retries          6345119
+Clock Cycles Start     5753115152690080
+Clock Cycles End       5753117220882412
+Total Cycles           2068192332
+CPU Frequency(kHz)     3312312
+Throughput(Mbps)       8336
+BytesConsumed       4085421
+DCS2_Compression Ratio      0.63
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            1024
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        635000
+Total Retries          4732531
+Clock Cycles Start     5753127757455550
+Clock Cycles End       5753129356032508
+Total Cycles           1598576958
+CPU Frequency(kHz)     3312312
+Throughput(Mbps)       10792
+BytesConsumed       4085401
+DDS2_Compression Ratio      0.63
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            1024
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        635000
+Total Retries          10811632
+Clock Cycles Start     5753139682944416
+Clock Cycles End       5753143106539686
+Total Cycles           3423595270
+CPU Frequency(kHz)     3312312
+Throughput(Mbps)       5035
+BytesConsumed       3315977
+DCD1_Compression Ratio      0.51
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            1024
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        635000
+Total Retries          5457761
+Clock Cycles Start     5753155547528124
+Clock Cycles End       5753157367927526
+Total Cycles           1820399402
+CPU Frequency(kHz)     3312312
+Throughput(Mbps)       9475
+BytesConsumed       3315945
+DDD1_Compression Ratio      0.51
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            1024
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        635000
+Total Retries          12524469
+Clock Cycles Start     5753169854843466
+Clock Cycles End       5753173775197432
+Total Cycles           3920353966
+CPU Frequency(kHz)     3312312
+Throughput(Mbps)       4397
+BytesConsumed       3262985
+DCD2_Compression Ratio      0.50
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            1024
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        635000
+Total Retries          5412484
+Clock Cycles Start     5753185231527406
+Clock Cycles End       5753187027794808
+Total Cycles           1796267402
+CPU Frequency(kHz)     3312312
+Throughput(Mbps)       9597
+BytesConsumed       3262959
+DDD2_Compression Ratio      0.50
+---------------------------------------
+
+qaeMemInit started
+icp_sal_userStartMultiProcess("SSL") started
+*** QA version information ***
+device ID		= 0
+firmware 		= 2.6.0
+mmp      		= 1.0.0
+software 		= 2.6.0
+hardware 		= A0
+*** END QA version information ***
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            512
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        1270000
+Total Retries          1405788
+Clock Cycles Start     5753209697559398
+Clock Cycles End       5753211016717506
+Total Cycles           1319158108
+CPU Frequency(kHz)     3312336
+Throughput(Mbps)       13070
+BytesConsumed       4531136
+TCS1_Compression Ratio      0.70
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            512
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        1270000
+Total Retries          2303045
+Clock Cycles Start     5753231375397932
+Clock Cycles End       5753233190309960
+Total Cycles           1814912028
+CPU Frequency(kHz)     3312336
+Throughput(Mbps)       9509
+BytesConsumed       4531138
+TDS1_Compression Ratio      0.70
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            512
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        1270000
+Total Retries          2702819
+Clock Cycles Start     5753253534871402
+Clock Cycles End       5753255566072266
+Total Cycles           2031200864
+CPU Frequency(kHz)     3312336
+Throughput(Mbps)       8486
+BytesConsumed       4469766
+TCS2_Compression Ratio      0.69
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            512
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        1270000
+Total Retries          2269768
+Clock Cycles Start     5753276899050362
+Clock Cycles End       5753278698595382
+Total Cycles           1799545020
+CPU Frequency(kHz)     3312336
+Throughput(Mbps)       9579
+BytesConsumed       4469802
+TDS2_Compression Ratio      0.69
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            512
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        1270000
+Total Retries          9137902
+Clock Cycles Start     5753299635766412
+Clock Cycles End       5753304903891460
+Total Cycles           5268125048
+CPU Frequency(kHz)     3312336
+Throughput(Mbps)       3271
+BytesConsumed       3660799
+TCD1_Compression Ratio      0.56
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            512
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        1270000
+Total Retries          3040099
+Clock Cycles Start     5753326161763138
+Clock Cycles End       5753328360949622
+Total Cycles           2199186484
+CPU Frequency(kHz)     3312336
+Throughput(Mbps)       7846
+BytesConsumed       3660966
+TDD1_Compression Ratio      0.56
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            512
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        1270000
+Total Retries          9445807
+Clock Cycles Start     5753350120327780
+Clock Cycles End       5753355561483056
+Total Cycles           5441155276
+CPU Frequency(kHz)     3312336
+Throughput(Mbps)       3168
+BytesConsumed       3628278
+TCD2_Compression Ratio      0.56
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            512
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        1270000
+Total Retries          3007634
+Clock Cycles Start     5753377861207328
+Clock Cycles End       5753380041808632
+Total Cycles           2180601304
+CPU Frequency(kHz)     3312336
+Throughput(Mbps)       7905
+BytesConsumed       3628300
+TDD2_Compression Ratio      0.56
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          786794
+Clock Cycles Start     5753391173099970
+Clock Cycles End       5753391850731414
+Total Cycles           677631444
+CPU Frequency(kHz)     3312336
+Throughput(Mbps)       25186
+BytesConsumed       3347648
+TDS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            512
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        1270000
+Total Retries          3316877
+Clock Cycles Start     5753404942971206
+Clock Cycles End       5753406311529320
+Total Cycles           1368558114
+CPU Frequency(kHz)     3312336
+Throughput(Mbps)       12595
+BytesConsumed       4531136
+DCS1_Compression Ratio      0.70
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            512
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        1270000
+Total Retries          4684278
+Clock Cycles Start     5753422462231146
+Clock Cycles End       5753424225922200
+Total Cycles           1763691054
+CPU Frequency(kHz)     3312336
+Throughput(Mbps)       9778
+BytesConsumed       4531135
+DDS1_Compression Ratio      0.70
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            512
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        1270000
+Total Retries          5888967
+Clock Cycles Start     5753441508758998
+Clock Cycles End       5753443610412692
+Total Cycles           2101653694
+CPU Frequency(kHz)     3312336
+Throughput(Mbps)       8204
+BytesConsumed       4469792
+DCS2_Compression Ratio      0.69
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            512
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        1270000
+Total Retries          4626588
+Clock Cycles Start     5753461516861894
+Clock Cycles End       5753463268534000
+Total Cycles           1751672106
+CPU Frequency(kHz)     3312336
+Throughput(Mbps)       9852
+BytesConsumed       4469786
+DDS2_Compression Ratio      0.69
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            512
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        1270000
+Total Retries          16681125
+Clock Cycles Start     5753481500521898
+Clock Cycles End       5753486760677580
+Total Cycles           5260155682
+CPU Frequency(kHz)     3312336
+Throughput(Mbps)       3275
+BytesConsumed       3660943
+DCD1_Compression Ratio      0.56
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            512
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        1270000
+Total Retries          6126216
+Clock Cycles Start     5753504846806110
+Clock Cycles End       5753507034893520
+Total Cycles           2188087410
+CPU Frequency(kHz)     3312336
+Throughput(Mbps)       7881
+BytesConsumed       3661061
+DDD1_Compression Ratio      0.56
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            512
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        1270000
+Total Retries          17302869
+Clock Cycles Start     5753526478014402
+Clock Cycles End       5753531964040042
+Total Cycles           5486025640
+CPU Frequency(kHz)     3312336
+Throughput(Mbps)       3141
+BytesConsumed       3628303
+DCD2_Compression Ratio      0.56
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            512
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        1270000
+Total Retries          6052823
+Clock Cycles Start     5753551638481740
+Clock Cycles End       5753553808822812
+Total Cycles           2170341072
+CPU Frequency(kHz)     3312336
+Throughput(Mbps)       7941
+BytesConsumed       3628317
+DDD2_Compression Ratio      0.56
+---------------------------------------
+
+qaeMemInit started
+icp_sal_userStartMultiProcess("SSL") started
+*** QA version information ***
+device ID		= 0
+firmware 		= 2.6.0
+mmp      		= 1.0.0
+software 		= 2.6.0
+hardware 		= A0
+*** END QA version information ***
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            256
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        2540200
+Total Retries          2372084
+Clock Cycles Start     5753607416552808
+Clock Cycles End       5753609724828614
+Total Cycles           2308275806
+CPU Frequency(kHz)     3312344
+Throughput(Mbps)       7474
+BytesConsumed       4967176
+TCS1_Compression Ratio      0.76
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            256
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        2540200
+Total Retries          3437018
+Clock Cycles Start     5753676278768220
+Clock Cycles End       5753679142536842
+Total Cycles           2863768622
+CPU Frequency(kHz)     3312344
+Throughput(Mbps)       6021
+BytesConsumed       4967172
+TDS1_Compression Ratio      0.76
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            256
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        2540200
+Total Retries          3366866
+Clock Cycles Start     5753744747113696
+Clock Cycles End       5753747551567870
+Total Cycles           2804454174
+CPU Frequency(kHz)     3312344
+Throughput(Mbps)       6149
+BytesConsumed       4931838
+TCS2_Compression Ratio      0.76
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            256
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        2540200
+Total Retries          3426059
+Clock Cycles Start     5753812516033120
+Clock Cycles End       5753815373108640
+Total Cycles           2857075520
+CPU Frequency(kHz)     3312344
+Throughput(Mbps)       6035
+BytesConsumed       4931854
+TDS2_Compression Ratio      0.76
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            256
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        2540200
+Total Retries          39930385
+Clock Cycles Start     5753881307634670
+Clock Cycles End       5753902636197834
+Total Cycles           21328563164
+CPU Frequency(kHz)     3312344
+Throughput(Mbps)       807
+BytesConsumed       4202713
+TCD1_Compression Ratio      0.65
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            256
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        2540200
+Total Retries          4845003
+Clock Cycles Start     5753968869719678
+Clock Cycles End       5753972474027112
+Total Cycles           3604307434
+CPU Frequency(kHz)     3312344
+Throughput(Mbps)       4781
+BytesConsumed       4202790
+TDD1_Compression Ratio      0.65
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            256
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        2540200
+Total Retries          35816133
+Clock Cycles Start     5754039770758062
+Clock Cycles End       5754059300954460
+Total Cycles           19530196398
+CPU Frequency(kHz)     3312344
+Throughput(Mbps)       882
+BytesConsumed       4185348
+TCD2_Compression Ratio      0.64
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            256
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        2540200
+Total Retries          4878644
+Clock Cycles Start     5754124934057818
+Clock Cycles End       5754128522590908
+Total Cycles           3588533090
+CPU Frequency(kHz)     3312344
+Throughput(Mbps)       4803
+BytesConsumed       4185403
+TDD2_Compression Ratio      0.64
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          743323
+Clock Cycles Start     5754157277168172
+Clock Cycles End       5754157954574600
+Total Cycles           677406428
+CPU Frequency(kHz)     3312344
+Throughput(Mbps)       25186
+BytesConsumed       3347648
+TDS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            256
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        2540200
+Total Retries          5784836
+Clock Cycles Start     5754181463858904
+Clock Cycles End       5754183894162814
+Total Cycles           2430303910
+CPU Frequency(kHz)     3312344
+Throughput(Mbps)       7097
+BytesConsumed       4967178
+DCS1_Compression Ratio      0.76
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            256
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        2540200
+Total Retries          7076186
+Clock Cycles Start     5754218990681070
+Clock Cycles End       5754221805380168
+Total Cycles           2814699098
+CPU Frequency(kHz)     3312344
+Throughput(Mbps)       6127
+BytesConsumed       4967168
+DDS1_Compression Ratio      0.76
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            256
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        2540200
+Total Retries          7304918
+Clock Cycles Start     5754255172881594
+Clock Cycles End       5754258068379676
+Total Cycles           2895498082
+CPU Frequency(kHz)     3312344
+Throughput(Mbps)       5952
+BytesConsumed       4931784
+DCS2_Compression Ratio      0.76
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            256
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        2540200
+Total Retries          7088601
+Clock Cycles Start     5754295011257696
+Clock Cycles End       5754297816793316
+Total Cycles           2805535620
+CPU Frequency(kHz)     3312344
+Throughput(Mbps)       6149
+BytesConsumed       4931819
+DDS2_Compression Ratio      0.76
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            256
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        2540200
+Total Retries          68816711
+Clock Cycles Start     5754334897851634
+Clock Cycles End       5754355715955490
+Total Cycles           20818103856
+CPU Frequency(kHz)     3312344
+Throughput(Mbps)       827
+BytesConsumed       4202816
+DCD1_Compression Ratio      0.65
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            256
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        2540200
+Total Retries          9284663
+Clock Cycles Start     5754390329304600
+Clock Cycles End       5754393815483508
+Total Cycles           3486178908
+CPU Frequency(kHz)     3312344
+Throughput(Mbps)       4945
+BytesConsumed       4202865
+DDD1_Compression Ratio      0.65
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            256
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        2540200
+Total Retries          66737348
+Clock Cycles Start     5754432564332452
+Clock Cycles End       5754452972903150
+Total Cycles           20408570698
+CPU Frequency(kHz)     3312344
+Throughput(Mbps)       844
+BytesConsumed       4185497
+DCD2_Compression Ratio      0.64
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            256
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        2540200
+Total Retries          9296145
+Clock Cycles Start     5754488926506758
+Clock Cycles End       5754492406988134
+Total Cycles           3480481376
+CPU Frequency(kHz)     3312344
+Throughput(Mbps)       4954
+BytesConsumed       4185463
+DDD2_Compression Ratio      0.64
+---------------------------------------
+
+qaeMemInit started
+icp_sal_userStartMultiProcess("SSL") started
+*** QA version information ***
+device ID		= 0
+firmware 		= 2.6.0
+mmp      		= 1.0.0
+software 		= 2.6.0
+hardware 		= A0
+*** END QA version information ***
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            128
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        5080400
+Total Retries          4247837
+Clock Cycles Start     5754612962972238
+Clock Cycles End       5754617303844936
+Total Cycles           4340872698
+CPU Frequency(kHz)     3312220
+Throughput(Mbps)       3971
+BytesConsumed       5505264
+TCS1_Compression Ratio      0.85
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            128
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        5080400
+Total Retries          5588878
+Clock Cycles Start     5754784795258634
+Clock Cycles End       5754789818822872
+Total Cycles           5023564238
+CPU Frequency(kHz)     3312220
+Throughput(Mbps)       3431
+BytesConsumed       5505266
+TDS1_Compression Ratio      0.85
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            128
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        5080400
+Total Retries          4753882
+Clock Cycles Start     5754967390817188
+Clock Cycles End       5754971979565048
+Total Cycles           4588747860
+CPU Frequency(kHz)     3312220
+Throughput(Mbps)       3756
+BytesConsumed       5486495
+TCS2_Compression Ratio      0.84
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            128
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        5080400
+Total Retries          5615301
+Clock Cycles Start     5755139510009352
+Clock Cycles End       5755144540174928
+Total Cycles           5030165576
+CPU Frequency(kHz)     3312220
+Throughput(Mbps)       3427
+BytesConsumed       5486589
+TDS2_Compression Ratio      0.84
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            128
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        5080400
+Total Retries          263986147
+Clock Cycles Start     5755301697497274
+Clock Cycles End       5755437449472450
+Total Cycles           135751975176
+CPU Frequency(kHz)     3312220
+Throughput(Mbps)       126
+BytesConsumed       5028791
+TCD1_Compression Ratio      0.77
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            128
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        5080400
+Total Retries          7863407
+Clock Cycles Start     5755604201569854
+Clock Cycles End       5755610388982440
+Total Cycles           6187412586
+CPU Frequency(kHz)     3312220
+Throughput(Mbps)       2784
+BytesConsumed       5028855
+TDD1_Compression Ratio      0.77
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            128
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        5080400
+Total Retries          250004641
+Clock Cycles Start     5755785075530472
+Clock Cycles End       5755913484158798
+Total Cycles           128408628326
+CPU Frequency(kHz)     3312220
+Throughput(Mbps)       134
+BytesConsumed       5021112
+TCD2_Compression Ratio      0.77
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            128
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        5080400
+Total Retries          7787049
+Clock Cycles Start     5756087473753166
+Clock Cycles End       5756093657054114
+Total Cycles           6183300948
+CPU Frequency(kHz)     3312220
+Throughput(Mbps)       2787
+BytesConsumed       5021141
+TDD2_Compression Ratio      0.77
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          716882
+Clock Cycles Start     5756164047857692
+Clock Cycles End       5756164725099982
+Total Cycles           677242290
+CPU Frequency(kHz)     3312220
+Throughput(Mbps)       25186
+BytesConsumed       3347648
+TDS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            128
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        5080400
+Total Retries          10835913
+Clock Cycles Start     5756217917747622
+Clock Cycles End       5756222575200936
+Total Cycles           4657453314
+CPU Frequency(kHz)     3312220
+Throughput(Mbps)       3700
+BytesConsumed       5505261
+DCS1_Compression Ratio      0.85
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            128
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        5080400
+Total Retries          11920241
+Clock Cycles Start     5756300465994964
+Clock Cycles End       5756305440900114
+Total Cycles           4974905150
+CPU Frequency(kHz)     3312220
+Throughput(Mbps)       3465
+BytesConsumed       5505273
+DDS1_Compression Ratio      0.85
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            128
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        5080400
+Total Retries          11552189
+Clock Cycles Start     5756377511215492
+Clock Cycles End       5756382369606818
+Total Cycles           4858391326
+CPU Frequency(kHz)     3312220
+Throughput(Mbps)       3548
+BytesConsumed       5486599
+DCS2_Compression Ratio      0.84
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            128
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        5080400
+Total Retries          11864273
+Clock Cycles Start     5756459202689384
+Clock Cycles End       5756464162586268
+Total Cycles           4959896884
+CPU Frequency(kHz)     3312220
+Throughput(Mbps)       3475
+BytesConsumed       5486568
+DDS2_Compression Ratio      0.84
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            128
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        5080400
+Total Retries          458280010
+Clock Cycles Start     5756539486931226
+Clock Cycles End       5756674508544898
+Total Cycles           135021613672
+CPU Frequency(kHz)     3312220
+Throughput(Mbps)       127
+BytesConsumed       5029098
+DCD1_Compression Ratio      0.77
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            128
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        5080400
+Total Retries          15497464
+Clock Cycles Start     5756752740326078
+Clock Cycles End       5756758801311198
+Total Cycles           6060985120
+CPU Frequency(kHz)     3312220
+Throughput(Mbps)       2844
+BytesConsumed       5029163
+DDD1_Compression Ratio      0.77
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            128
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        5080400
+Total Retries          437198599
+Clock Cycles Start     5756832516493910
+Clock Cycles End       5756960987022444
+Total Cycles           128470528534
+CPU Frequency(kHz)     3312220
+Throughput(Mbps)       134
+BytesConsumed       5021261
+DCD2_Compression Ratio      0.77
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            128
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        5080400
+Total Retries          15490655
+Clock Cycles Start     5757034232415934
+Clock Cycles End       5757040288120668
+Total Cycles           6055704734
+CPU Frequency(kHz)     3312220
+Throughput(Mbps)       2845
+BytesConsumed       5021330
+DDD2_Compression Ratio      0.77
+---------------------------------------
+
+qaeMemInit started
+icp_sal_userStartMultiProcess("SSL") started
+*** QA version information ***
+device ID		= 0
+firmware 		= 2.6.0
+mmp      		= 1.0.0
+software 		= 2.6.0
+hardware 		= A0
+*** END QA version information ***
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            64
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        10160800
+Total Retries          8421801
+Clock Cycles Start     5757369300953372
+Clock Cycles End       5757377728951844
+Total Cycles           8427998472
+CPU Frequency(kHz)     3312333
+Throughput(Mbps)       2044
+BytesConsumed       6208133
+TCS1_Compression Ratio      0.95
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            64
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        10160800
+Total Retries          10589139
+Clock Cycles Start     5757869726053544
+Clock Cycles End       5757879363529722
+Total Cycles           9637476178
+CPU Frequency(kHz)     3312333
+Throughput(Mbps)       1788
+BytesConsumed       6208132
+TDS1_Compression Ratio      0.95
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            64
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        10160800
+Total Retries          8793474
+Clock Cycles Start     5758347042233838
+Clock Cycles End       5758355644456122
+Total Cycles           8602222284
+CPU Frequency(kHz)     3312333
+Throughput(Mbps)       2003
+BytesConsumed       6200375
+TCS2_Compression Ratio      0.95
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            64
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        10160800
+Total Retries          10624474
+Clock Cycles Start     5758831653167986
+Clock Cycles End       5758841296343314
+Total Cycles           9643175328
+CPU Frequency(kHz)     3312333
+Throughput(Mbps)       1787
+BytesConsumed       6200346
+TDS2_Compression Ratio      0.95
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            64
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        10160800
+Total Retries          381382717
+Clock Cycles Start     5759307834736658
+Clock Cycles End       5759507233475052
+Total Cycles           199398738394
+CPU Frequency(kHz)     3312333
+Throughput(Mbps)       86
+BytesConsumed       6193698
+TCD1_Compression Ratio      0.95
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            64
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        10160800
+Total Retries          14416037
+Clock Cycles Start     5759981466452970
+Clock Cycles End       5759992981107810
+Total Cycles           11514654840
+CPU Frequency(kHz)     3312333
+Throughput(Mbps)       1496
+BytesConsumed       6193719
+TDD1_Compression Ratio      0.95
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            64
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        10160800
+Total Retries          368163118
+Clock Cycles Start     5760463523664646
+Clock Cycles End       5760655841417328
+Total Cycles           192317752682
+CPU Frequency(kHz)     3312333
+Throughput(Mbps)       89
+BytesConsumed       6191221
+TCD2_Compression Ratio      0.95
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            64
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        10160800
+Total Retries          14369566
+Clock Cycles Start     5761129825370122
+Clock Cycles End       5761141359484724
+Total Cycles           11534114602
+CPU Frequency(kHz)     3312333
+Throughput(Mbps)       1494
+BytesConsumed       6191234
+TDD2_Compression Ratio      0.95
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        9800
+Total Retries          726545
+Clock Cycles Start     5761327130090832
+Clock Cycles End       5761327807378880
+Total Cycles           677288048
+CPU Frequency(kHz)     3312333
+Throughput(Mbps)       25186
+BytesConsumed       3347648
+TDS1_Compression Ratio      0.52
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            64
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        10160800
+Total Retries          20877053
+Clock Cycles Start     5761479252702160
+Clock Cycles End       5761488356405566
+Total Cycles           9103703406
+CPU Frequency(kHz)     3312333
+Throughput(Mbps)       1893
+BytesConsumed       6208135
+DCS1_Compression Ratio      0.95
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            64
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        10160800
+Total Retries          21195916
+Clock Cycles Start     5761691814456544
+Clock Cycles End       5761700989813454
+Total Cycles           9175356910
+CPU Frequency(kHz)     3312333
+Throughput(Mbps)       1878
+BytesConsumed       6208135
+DDS1_Compression Ratio      0.95
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            64
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        10160800
+Total Retries          21436740
+Clock Cycles Start     5761896998864138
+Clock Cycles End       5761906255743938
+Total Cycles           9256879800
+CPU Frequency(kHz)     3312333
+Throughput(Mbps)       1861
+BytesConsumed       6200320
+DCS2_Compression Ratio      0.95
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            64
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        10160800
+Total Retries          21224199
+Clock Cycles Start     5762102123241744
+Clock Cycles End       5762111302315978
+Total Cycles           9179074234
+CPU Frequency(kHz)     3312333
+Throughput(Mbps)       1877
+BytesConsumed       6200352
+DDS2_Compression Ratio      0.95
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            64
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        10160800
+Total Retries          654114970
+Clock Cycles Start     5762298534672922
+Clock Cycles End       5762495219527258
+Total Cycles           196684854336
+CPU Frequency(kHz)     3312333
+Throughput(Mbps)       87
+BytesConsumed       6193710
+DCD1_Compression Ratio      0.95
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            64
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        10160800
+Total Retries          27987927
+Clock Cycles Start     5762677514036458
+Clock Cycles End       5762688783854802
+Total Cycles           11269818344
+CPU Frequency(kHz)     3312333
+Throughput(Mbps)       1529
+BytesConsumed       6193714
+DDD1_Compression Ratio      0.95
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              COMPRESS
+Packet Size            64
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        10160800
+Total Retries          633416949
+Clock Cycles Start     5762879923272484
+Clock Cycles End       5763070377841382
+Total Cycles           190454568898
+CPU Frequency(kHz)     3312333
+Throughput(Mbps)       90
+BytesConsumed       6191247
+DCD2_Compression Ratio      0.95
+---------------------------------------
+
+Corpus File Path :/lib/firmware/calgary
+Corpus File Size:3251493
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+Inst 1, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 03:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            64
+Compression Level      2
+Corpus                 CALGARY_CORPUS
+Number of threads      2
+Total Responses        10160800
+Total Retries          27781562
+Clock Cycles Start     5763280955278576
+Clock Cycles End       5763292225100110
+Total Cycles           11269821534
+CPU Frequency(kHz)     3312333
+Throughput(Mbps)       1529
+BytesConsumed       6191233
+DDD2_Compression Ratio      0.95
+---------------------------------------
+
